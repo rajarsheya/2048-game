@@ -24,9 +24,7 @@ This is a fully playable version of the 2048 game with:
 
 ## 🖼️ Screenshot
 
-```
-![Game Preview](2048 game/GamePreview.png)
-```
+![Game Preview](<Game Preview.png>)
 
 ---
 
