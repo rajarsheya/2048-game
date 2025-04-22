@@ -24,9 +24,8 @@ This is a fully playable version of the 2048 game with:
 
 ## 🖼️ Screenshot
 
-*(Add a screenshot here)*  
 ```
-![Game Screenshot](screenshot.png)
+![Game Preview](https://github.com/user-attachments/assets/610973c5-a288-4151-a553-bcd8707a347d)
 ```
 
 ---
@@ -84,7 +83,7 @@ python 2048.py
 │
 ├── 2048.py         # Main game script
 ├── README.md       # Project documentation
-└── screenshot.png  # Optional: Game preview image
+└── Game Preview.png  # Game preview image
 ```
 
 ---
