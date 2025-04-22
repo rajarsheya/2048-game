@@ -92,12 +92,6 @@ python main.py
 
 ---
 
-## 📜 License
-
-This project is for educational and personal use.
-
----
-
 ## 🙌 Credits
 
-Built with 💙 by **Arsheya Raj**
+This project is for educational and personal use. Built with 💙 by **Arsheya Raj**
