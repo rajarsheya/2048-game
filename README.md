@@ -8,6 +8,11 @@ Created by **Arsheya Raj**
 
 ---
 
+## Demo Video
+Demo Link: https://youtu.be/ImVBoV_PF_U
+
+---
+
 ## 🎮 Game Overview
 
 Join the numbers and get to the **2048 tile**!
@@ -60,14 +65,14 @@ This is a fully playable version of the 2048 game with:
 1. Clone this repository or download the script:
 
 ```bash
-git clone https://github.com/your-username/2048-tkinter-game.git
+git clone https://github.com/rajarsheya/2048-game.git
 cd 2048-tkinter-game
 ```
 
 2. Run the game:
 
 ```bash
-python 2048.py
+python main.py
 ```
 
 > 🪄 That's it! The game window will launch immediately.
