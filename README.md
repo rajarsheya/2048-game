@@ -79,9 +79,10 @@ python 2048.py
 ```plaintext
 2048-tkinter-game/
 │
-├── 2048.py         # Main game script
-├── README.md       # Project documentation
-└── Game Preview.png  # Game preview image
+├── 2048 game         
+   ├── main.py          # Main game script
+├── README.md           # Project documentation
+└── Game Preview.png    # Game preview image
 ```
 
 ---
